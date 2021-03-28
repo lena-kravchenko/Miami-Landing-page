@@ -8,7 +8,6 @@ Implement responsive landing page according to [Figma design](https://www.figma.
 - Mobile (> 320px)
 
 You can check this page here:
-    - [DEMO LINK](https://lena-kravchenko.github.io/Miami-Landing-page/)
+[DEMO LINK](https://lena-kravchenko.github.io/Miami-Landing-page/)
 
-Description
-Made this landing page using BEM methodology and made it responsive by using SCSS(SASS) preprocessor.
+This landing page was made using BEM methodology and SCSS(SASS) preprocessor.
